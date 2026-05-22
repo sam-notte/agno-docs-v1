@@ -180,6 +180,7 @@
                           "tools/toolkits/web_scrape/jina_reader",
                           "tools/toolkits/web_scrape/newspaper",
                           "tools/toolkits/web_scrape/newspaper4k",
+                          "tools/toolkits/web_scrape/notte",
                           "tools/toolkits/web_scrape/spider",
                           "tools/toolkits/web_scrape/website",
                           "tools/toolkits/web_scrape/scrapegraph",
